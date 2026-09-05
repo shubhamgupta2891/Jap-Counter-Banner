@@ -3,12 +3,12 @@
   "intervalSeconds": 5,
   "messages": [
     {
-      "text": "🌸 राधे राधे 🙏",
+      "text": "          🌸 राधे राधे 🙏    ",
       "enabled": true,
       "action": "none"
     },
     {
-      "text": "Please Support us if you like this app.",
+      "text": "Please Support us if you like this app. Share app and keep chanting",
       "enabled": true,
       "action": "support"
     }
