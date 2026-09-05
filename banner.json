@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "intervalSeconds": 8,
+  "intervalSeconds": 5,
   "messages": [
     {
       "text": "🌸 राधे राधे 🙏",
