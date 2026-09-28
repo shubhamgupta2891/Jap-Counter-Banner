@@ -3,12 +3,12 @@
   "intervalSeconds": 5,
   "messages": [
     {
-      "text": "       🌸🌸🌸🌸🌸  राधे राधे  🌸🌸🌸🌸🌸   ",
+      "text": "       🌸Todays Feature- Open Sound and Alarm and set any devotional tone as reminder... check it out🌸🌸   ",
       "enabled": true,
       "action": "none"
     },
     {
-      "text": "कृपया ऐप को अपना समर्थन दे और शेयर करें..",
+      "text": "Please give feedback and Rate app on playstore.",
       "enabled": true,
       "action": "support"
     }
