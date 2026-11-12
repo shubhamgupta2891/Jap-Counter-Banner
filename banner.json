@@ -3,12 +3,12 @@
   "intervalSeconds": 5,
   "messages": [
     {
-      "text": " 🌸🙏 जय श्री राम 🙏🌸   .    🌼 रोज़ नाम जप करें, मन को शांति और जीवन को भक्ति से भरें। 🌼 ",
+      "text": " 🌸🙏 जय श्री राम 🙏🌸       🌼 रोज़ नाम जप करें, मन को शांति और जीवन को भक्ति से भरें। 🌼 ",
       "enabled": true,
       "action": "none"
     },
     {
-      "text": "Please update app from Playstore.",
+      "text": "हिंदू नाम जप काउंटर सभी के साथ साझा करें।",
       "enabled": true,
       "action": "support"
     }
